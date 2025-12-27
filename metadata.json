@@ -1,0 +1,5 @@
+{
+  "name": "GMCAII 儿童 AML 治疗决策支持工具",
+  "description": "基于 GMCAII 方案的交互式儿童急性髓系白血病（AML）临床决策支持工具，涵盖风险分层、治疗选择及随访管理。",
+  "requestFramePermissions": []
+}
